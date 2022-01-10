@@ -10,11 +10,11 @@
 - ⚡ Fun fact: Well, I actually love chess, astronomy and I really love programming 😅.
 
 
-<h2 style="text-align: center"><b>Languages and tolls</b></h2>
-
 <br>
 
-<div style="display: flex">
+<div style="display: flex" align="center">
+
+  <h2 style="text-align: center"><b>Languages and tolls</b></h2>
 
   <img src="./Icons/javascript.png" title="javascript" title="" width="20px" height="20px">
 
