@@ -45,7 +45,7 @@
 
 <br>
 
-<h2 style="text-align: center"><b>GitHub Stats</b></h2>
+<h2 align="center"><b>GitHub Stats</b></h2>
 
 [![kkphoenixgx GitHub stats](https://github-readme-stats.vercel.app/api?username=kkphoenixgx&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -54,7 +54,7 @@
 <br>
 <br>
 
-## **My biggest achievements**
+<h2 align="center"><b>My biggest achievements</b></h2>
 
 <br>
 
@@ -68,7 +68,7 @@
 
 <br>
 
-## Curses that I am learning
+<h2 align="center"><b>Curses that I am learning</b></h2>
 
 1- I am learning javascript in the [javascript course](https://github.com/kkphoenixgx/JavascriptCourse) at HCODE  
 2- Learning [web-develop](https://github.com/kkphoenixgx/Web-developer-course) in HCODE  
