@@ -16,12 +16,6 @@
 - 🥅 2022 Goals: Take a job, learn even more things, and make more projects!
 - ⚡ Fun fact: Well, I actually love chess, astronomy and I really love programming 😅.
 
-<br>
-
-<h2 style="text-align: center"><b>GitHub Stats</b></h2>
-
-[![kkphoenixgx GitHub stats](https://github-readme-stats.vercel.app/api?username=kkphoenixgx&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <h2 style="text-align: center"><b>Languages and tolls</b></h2>
 
@@ -55,6 +49,12 @@
   <img src="./Icons/expressjs.png" title="Express.js" width="45px" height="20px">
 
 </div>
+
+<br>
+
+<h2 style="text-align: center"><b>GitHub Stats</b></h2>
+
+[![kkphoenixgx GitHub stats](https://github-readme-stats.vercel.app/api?username=kkphoenixgx&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <br>
