@@ -1,7 +1,11 @@
-### Wellcome to my GitHub page! please enjoy
+# Wellcome to my GitHub page! please enjoy
 
+<h2 style="text-align: center">Connect me with:</h2>
 
-[![Instagram Follow](https://www.instagram.com/kkphoenixgx/)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+<div style="text-align: center">
+  <a href="https://www.instagram.com/kkphoenixgx/">  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="40" ></a>
+  <a href="https://www.linkedin.com/in/kau%C3%A3-alves-santos-873b85203/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="40"></a>
+</div>
 
 ## Who I am?
 
@@ -12,67 +16,83 @@
 - 🥅 2022 Goals: Take a job, learn even more things, and make more projects!
 - ⚡ Fun fact: Well, I actually love chess, astronomy and I really love programming 😅.
 
-### Connect with me with:
+<br>
 
-[<img align="left" alt="Kauã Alves Santos | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
-[<img align="left" alt="Kauã Alves Santos | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
+<h2 style="text-align: center"><b>GitHub Stats</b></h2>
 
-<br />
-
-<details>
-  <summary>:GitHub Stats</summary>
-
-  <img align="left" alt="kkphoenix GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
-
-### Languages and Tools:
-
-[<img align="left" alt="JS" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png"](javascript)
-[<img align="left" alt="JS" width="22px" src="https://image.pngaaa.com/21/4772021-small.png"](node.js)
-[<img align="left" alt="JS" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR49CPLVKPAe1cslXaHnF20_Qwt-MiSoRen-vvYNoCmLkKwCQ1GtWdstwiUeDJ03RYu5ik&usqp=CAU"](express)
-[<img align="left" alt="JS" width="22px" src="https://camo.githubusercontent.com/bec2c92468d081617cb3145a8f3d8103e268bca400f6169c3a68dc66e05c971e/68747470733a2f2f76352e676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67"](Bootstrap)
-[<img align="left" alt="JS" width="22px" src="https://cdn-icons-png.flaticon.com/512/919/919827.png"](HTML5)
-[<img align="left" alt="JS" width="22px" src="https://cdn-icons-png.flaticon.com/512/919/919826.png"](css)
-[<img align="left" alt="JS" width="22px" src="https://iconape.com/wp-content/png_logo_vector/typescript.png"](Typescript)
-[<img align="left" alt="JS" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png"](electron.js)
-[<img align="left" alt="JS" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png"](React)
-[<img align="left" alt="JS" width="22px" src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png"](next.js)
-[<img align="left" alt="JS" width="22px" src="https://img1.gratispng.com/20180715/ohc/kisspng-java-development-kit-software-development-kit-comp-programming-language-icon-5b4b9cb1bbcd03.5052416115316819697692.jpg"](Java)
-
-<br />
-<br />
+[![kkphoenixgx GitHub stats](https://github-readme-stats.vercel.app/api?username=kkphoenixgx&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
+<h2 style="text-align: center"><b>Languages and tolls</b></h2>
 
-- I made a [calculator using js](https://kkphoenixgx.github.io/CalculadoraJs/) made all just with css, html and js without ES6, for you take a look into my vanilla programming. This project don't have a responsive page yet
+<br>
 
-- I am currently working in a [snake game](kkphoenixgx.github.io/speedsnake/) that have bosses, walls, enemies, levels, a market that you can buy things with the apples that you collected in game. I made a snake game different then everything you already saw. This project don't have a responsive page yet
+<div style="display: flex">
 
-- I am currently working in a PetShop web site that my focus is show how I deal with web develop in real life, how I think and implement my programming skills.
+  <img src="./Icons/javascript.png" title="javascript" title="" width="45px" height="40px">
+
+  <img src="./Icons/node.js.png" title="node.js" width="45px" height="45px">
+
+  <img src="./Icons/Bootstrap.png" title="Bootstrap" width="58px" height="45px">
+
+  <img src="./Icons/html.png" title="HTML5" width="45px" height="45px">
+
+  <img src="./Icons/css.png" title="CSS3" width="45px" height="45px">
+
+  <img src="./Icons/typescript.png" title="Typescript" width="45px" height="45px">
+
+  <img src="./Icons/electron.js.png" title="Electron.js" width="45px" height="45px">
+
+  <img src="./Icons/react.js.png" title="React.js" width="60px" height="45px">
+
+</div>
+<div style="display: flex">
+
+  <img src="./Icons/Next.js.png" title="Next.js" width="45px" height="45px">
+
+
+  <img src="./Icons/java.png" title="Java" width="45px" height="45px">
+
+  <img src="./Icons/jquery.png" title="Jquery" width="45px" height="45px">
+
+  <img src="./Icons/expressjs.png" title="Express.js" width="84px" height="45px">
+
+</div>
+
+
+<br>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=GLSL,rust,python,Assembly,Objective-C&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+<h2 style="text-align: center"><b>Activity</b></h2>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime??username=kkphoenixgx)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+<br>
+
+1- I made a [calculator using js](https://kkphoenixgx.github.io/CalculadoraJs/) made all just with css, html and js without ES6, for you take a look into my vanilla programming. This project don't have a responsive page yet
+
+2- I am currently working in a [snake game](kkphoenixgx.github.io/speedsnake/) that have bosses, walls, enemies, levels, a market that you can buy things with the apples that you collected in game. I made a snake game different then everything you already saw. This project don't have a responsive page yet
+
+3- I am currently working in a PetShop web site that my focus is show how I deal with web develop in real life, how I think and implement my programming skills.
 
 <!--END_SECTION:activity-->
 
-</details>
+<br>
 
-</details>
+## Curses that I am learning
 
-<details>
-  <summary>:Curses that I am learning 🌲</summary>
+1- I am learning javascript in the [javascript course](https://github.com/kkphoenixgx/JavascriptCourse) at HCODE  
+2- Learning [web-develop](https://github.com/kkphoenixgx/Web-developer-course) in HCODE  
+3- Learning [Node.js](https://github.com/kkphoenixgx/Nodejs-Course) in HCODE  
+4- Learning [Typescript](https://github.com/kkphoenixgx/Typescript-course) in HCODE  
+5- Learning [Electron](https://github.com/kkphoenixgx/Electron.js_course) with professor Ray Viljoen  
+6- learning [React and Next](https://github.com/kkphoenixgx/React.js-Next.js_Course) with professor  Luis Otávio Miranda  
+7- learning [Java](https://github.com/kkphoenixgx/JavaCurse) with professor Nelio Alves  
 
-- I am learning javascript in the [javascript course of HCODE](https://github.com/kkphoenixgx/JavascriptCourse)
-- Learning [web-develop](https://github.com/kkphoenixgx/Web-developer-course)
-- Learning [Node.js](https://github.com/kkphoenixgx/Nodejs-Course)
-- Learning [Typescript](https://github.com/kkphoenixgx/Typescript-course)
-- Learning [Electron](https://github.com/kkphoenixgx/Electron.js_course)
-- learning [React and Next](https://github.com/kkphoenixgx/React.js-Next.js_Course)
-- learning [Java](https://github.com/kkphoenixgx/JavaCurse)
-
-</details>
-
-[instagram]: https://www.instagram.com/kkphoenixgx/
-[linkedin]: https://www.linkedin.com/in/kau%C3%A3-alves-santos-873b85203/
+Please checkout my [instagram](https://www.instagram.com/kkphoenixgx/) and my
+[linkedin](https://www.linkedin.com/in/kau%C3%A3-alves-santos-873b85203/)
