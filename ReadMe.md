@@ -47,9 +47,14 @@
 
 <h2 align="center"><b>GitHub Stats</b></h2>
 
+<div align="center">
+
 [![kkphoenixgx GitHub stats](https://github-readme-stats.vercel.app/api?username=kkphoenixgx&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Snake animation](https://github.com/kkphoenixgx/kkphoenixgx/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
 
 <br>
 <br>
@@ -81,4 +86,8 @@
 Please checkout my [instagram](https://www.instagram.com/kkphoenixgx/) and my
 [linkedin](https://www.linkedin.com/in/kau%C3%A3-alves-santos-873b85203/)
 
+<div align="center">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=GLSL,rust,python,Assembly,Objective-C&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
