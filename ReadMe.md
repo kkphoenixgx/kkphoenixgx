@@ -60,17 +60,9 @@
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=GLSL,rust,python,Assembly,Objective-C&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+## **My biggest achievements**
 
 <br>
-
-<h2 style="text-align: center"><b>Activity</b></h2>
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime??username=kkphoenixgx)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-<br>
-
 1- I made a [calculator using js](https://kkphoenixgx.github.io/CalculadoraJs/) made all just with css, html and js without ES6, for you take a look into my vanilla programming. This project don't have a responsive page yet
 
 2- I am currently working in a [snake game](kkphoenixgx.github.io/speedsnake/) that have bosses, walls, enemies, levels, a market that you can buy things with the apples that you collected in game. I made a snake game different then everything you already saw. This project don't have a responsive page yet
@@ -93,3 +85,14 @@
 
 Please checkout my [instagram](https://www.instagram.com/kkphoenixgx/) and my
 [linkedin](https://www.linkedin.com/in/kau%C3%A3-alves-santos-873b85203/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=GLSL,rust,python,Assembly,Objective-C&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+<h2 style="text-align: center"><b>Activity</b></h2>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime??username=kkphoenixgx)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+<br>
