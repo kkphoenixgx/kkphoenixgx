@@ -1,11 +1,13 @@
 # Wellcome to my GitHub page! please enjoy
 
-<h2 style="text-align: center">Connect me with:</h2>
+<h2 style="text-align: center">Connect me with:
 
 <div style="text-align: center">
   <a href="https://www.instagram.com/kkphoenixgx/">  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="20"></a>
   <a href="https://www.linkedin.com/in/kau%C3%A3-alves-santos-873b85203/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="20"></a>
 </div>
+
+</h2>
 
 ## Who I am?
 
