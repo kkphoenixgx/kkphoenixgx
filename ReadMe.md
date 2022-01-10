@@ -1,12 +1,5 @@
 # Wellcome to my GitHub page! please enjoy
 
-<h2 style="text-align: center">Connect me with:</h2>
-
-<div style="text-align: center">
-  <a href="https://www.instagram.com/kkphoenixgx/">  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30"></a>
-  <a href="https://www.linkedin.com/in/kau%C3%A3-alves-santos-873b85203/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="30"></a>
-</div>
-
 ## Who I am?
 
 - 😁 I am a Brazilian programming student, I really love programming and I really would like to have a job!
@@ -63,6 +56,7 @@
 ## **My biggest achievements**
 
 <br>
+
 1- I made a [calculator using js](https://kkphoenixgx.github.io/CalculadoraJs/) made all just with css, html and js without ES6, for you take a look into my vanilla programming. This project don't have a responsive page yet
 
 2- I am currently working in a [snake game](kkphoenixgx.github.io/speedsnake/) that have bosses, walls, enemies, levels, a market that you can buy things with the apples that you collected in game. I made a snake game different then everything you already saw. This project don't have a responsive page yet
