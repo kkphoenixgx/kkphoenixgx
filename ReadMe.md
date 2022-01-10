@@ -3,8 +3,8 @@
 <h2 style="text-align: center">Connect me with:</h2>
 
 <div style="text-align: center">
-  <a href="https://www.instagram.com/kkphoenixgx/">  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="40" ></a>
-  <a href="https://www.linkedin.com/in/kau%C3%A3-alves-santos-873b85203/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="40"></a>
+  <a href="https://www.instagram.com/kkphoenixgx/">  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="20"></a>
+  <a href="https://www.linkedin.com/in/kau%C3%A3-alves-santos-873b85203/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="20"></a>
 </div>
 
 ## Who I am?
@@ -29,33 +29,30 @@
 
 <div style="display: flex">
 
-  <img src="./Icons/javascript.png" title="javascript" title="" width="45px" height="40px">
+  <img src="./Icons/javascript.png" title="javascript" title="" width="20px" height="20px">
 
-  <img src="./Icons/node.js.png" title="node.js" width="45px" height="45px">
+  <img src="./Icons/node.js.png" title="node.js" width="20px" height="20px">
 
-  <img src="./Icons/Bootstrap.png" title="Bootstrap" width="58px" height="45px">
+  <img src="./Icons/Bootstrap.png" title="Bootstrap" width="28px" height="20px">
 
-  <img src="./Icons/html.png" title="HTML5" width="45px" height="45px">
+  <img src="./Icons/html.png" title="HTML5" width="20px" height="20px">
 
-  <img src="./Icons/css.png" title="CSS3" width="45px" height="45px">
+  <img src="./Icons/css.png" title="CSS3" width="20px" height="20px">
 
-  <img src="./Icons/typescript.png" title="Typescript" width="45px" height="45px">
+  <img src="./Icons/typescript.png" title="Typescript" width="20px" height="20px">
 
-  <img src="./Icons/electron.js.png" title="Electron.js" width="45px" height="45px">
+  <img src="./Icons/electron.js.png" title="Electron.js" width="20px" height="20px">
 
-  <img src="./Icons/react.js.png" title="React.js" width="60px" height="45px">
+  <img src="./Icons/react.js.png" title="React.js" width="30px" height="20px">
 
-</div>
-<div style="display: flex">
-
-  <img src="./Icons/Next.js.png" title="Next.js" width="45px" height="45px">
+  <img src="./Icons/Next.js.png" title="Next.js" width="20px" height="20px">
 
 
-  <img src="./Icons/java.png" title="Java" width="45px" height="45px">
+  <img src="./Icons/java.png" title="Java" width="20px" height="20px">
 
-  <img src="./Icons/jquery.png" title="Jquery" width="45px" height="45px">
+  <img src="./Icons/jquery.png" title="Jquery" width="20px" height="20px">
 
-  <img src="./Icons/expressjs.png" title="Express.js" width="84px" height="45px">
+  <img src="./Icons/expressjs.png" title="Express.js" width="45px" height="20px">
 
 </div>
 
