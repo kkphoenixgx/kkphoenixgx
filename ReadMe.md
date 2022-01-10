@@ -9,9 +9,6 @@
 - 🥅 2022 Goals: Take a job, learn even more things, and make more projects!
 - ⚡ Fun fact: Well, I actually love chess, astronomy and I really love programming 😅.
 
-
-<br>
-
 <div style="display: flex" align="center">
 
   <h2 style="text-align: center"><b>Languages and tolls</b></h2>
@@ -55,10 +52,6 @@
 
 </div>
 
-
-<br>
-<br>
-
 <h2 align="center"><b>My biggest achievements</b></h2>
 
 <br>
@@ -85,6 +78,8 @@
 
 Please checkout my [instagram](https://www.instagram.com/kkphoenixgx/) and my
 [linkedin](https://www.linkedin.com/in/kau%C3%A3-alves-santos-873b85203/)
+
+<br>
 
 <div align="center">
 
