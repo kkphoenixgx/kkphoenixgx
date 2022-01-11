@@ -71,7 +71,7 @@
 
 <br>
 
-<h2 align="center"><b>Curses that I am learning</b></h2>
+<h2 align="center"><b>Courses that I am learning</b></h2>
 
 1- I am learning javascript in the [javascript course](https://github.com/kkphoenixgx/JavascriptCourse) at HCODE  
 2- Learning [web-develop](https://github.com/kkphoenixgx/Web-developer-course) in HCODE  
