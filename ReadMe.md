@@ -5,7 +5,7 @@
 - 😁 I am a Brazilian programming student, I really love programming and I really would like to have a job!
 - 🌱 I’m currently learning everything :V, But specially javascript, I wanna master it. React, Next, Node, Typescript, Electron.
 - 👾 I am actually side leaning other languages for fun, like java, C# and with my web develop course, I already have good skill level in HTML5, CSS3, and of course JavaScript.
-- 👯 I’m helping my friends to start in programming too and and working in side projects.
+- 👯 I’m helping my friends to start in programming too and working in side projects.
 - 🥅 2022 Goals: Take a job, learn even more things, and make more projects!
 - ⚡ Fun fact: Well, I actually love chess, astronomy and I really love programming 😅.
 
