@@ -63,6 +63,8 @@
 
 1- I made a [calculator using js](https://kkphoenixgx.github.io/CalculadoraJs/) made all just with css, html and js without ES6, for you take a look into my vanilla programming. This project don't have a responsive page yet
 
+2- In my javascript course I have already made some sites that I have followed the course but personalizate it myself like the users tab page at my [projeto usuários repository](https://kkphoenixgx.github.io/curso-javascript-projeto-usuarios)
+
 <!--END_SECTION:activity-->
 
 <br>
