@@ -63,10 +63,6 @@
 
 1- I made a [calculator using js](https://kkphoenixgx.github.io/CalculadoraJs/) made all just with css, html and js without ES6, for you take a look into my vanilla programming. This project don't have a responsive page yet
 
-2- I am currently working in a [snake game](https://kkphoenixgx.github.io/SpeedSnake/) that have bosses, walls, enemies, levels, a market that you can buy things with the apples that you collected in game. I made a snake game different then everything you already saw. This project don't have a responsive page yet
-
-3- I am currently working in a PetShop web site that my focus is show how I deal with web develop in real life, how I think and implement my programming skills.
-
 <!--END_SECTION:activity-->
 
 <br>
