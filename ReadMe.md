@@ -2,12 +2,12 @@
 
 ## Who I am?
 
+- 👔 I am here to understand our business, be part of it, understand how you make money and make you have more money. Atomatizing work and making best choices to our business with clean and refactorable code.
 - 😁 I am a Brazilian programming student, I really love programming and I really would like to have a job!
-- 🌱 I’m currently learning everything :V, But specially javascript, I wanna master it. React, Next, Node, Typescript, Electron.
-- 👾 I am actually side leaning other languages for fun, like java, C# and with my web develop course, I already have good skill level in HTML5, CSS3, and of course JavaScript.
+- ⚡ Fun fact: Well, I actually love chess, astronomy, really love programming and learn things, specially software engineering. ~ Clean Architeture and Design Patterns have a locate in my heart.
+- 🌱 I’m currently learning everything, But specially javascript, I wanna master it. React, Next, Node, Typescript, Electron.
+- 👾 I am actually side leaning other languages for more jobs entrypoints, like java, C# and with my web develop course, I already have good skill level in HTML5, CSS3 and JavaScript.
 - 👯 I’m helping my friends to start in programming too and working in side projects.
-- 🥅 2022 Goals: Take a job, learn even more things, and make more projects!
-- ⚡ Fun fact: Well, I actually love chess, astronomy and I really love programming 😅.
 
 <a href="https://www.instagram.com/kkphoenixgx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://discord.gg/fPkQ6uH8CR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
