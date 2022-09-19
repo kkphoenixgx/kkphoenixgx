@@ -69,6 +69,12 @@
 
 <br>
 
+<h2 align="center"><b> Comunity projects, to make your life simple </b></h2>
+
+1. I have done a ["create md index"](https://github.com/kkphoenixgx/Create-a-index-of-files-in-md) project, that creates a index of all the files in a directory path.
+
+<!--END_SECTION: -->
+
 <h2 align="center"><b>Courses that I am learning</b></h2>
 
 1- I am learning javascript in the [javascript course](https://github.com/kkphoenixgx/JavascriptCourse) at HCODE  
