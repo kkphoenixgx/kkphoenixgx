@@ -72,8 +72,10 @@
 <h2 align="center"><b> Comunity projects, to make your life simple </b></h2>
 
 1. I have done a ["create md index"](https://github.com/kkphoenixgx/Create-a-index-of-files-in-md) project, that creates a index of all the files in a directory path.
+2. There is a repository in my github to [create architectures](https://github.com/kkphoenixgx/createArchiteture). Some simple structures of folders that facilitates our life to do not need to configurate the design of folders in your project
 
 <!--END_SECTION: -->
+<br>
 
 <h2 align="center"><b>Courses that I am learning</b></h2>
 
