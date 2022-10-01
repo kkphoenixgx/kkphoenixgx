@@ -2,12 +2,12 @@
 
 ## Who I am?
 
-- 👔 I am here to understand our business, be part of it, understand how you make money and make you have more money. Atomatizing work and making best choices to our business with clean and refactorable code.
 - 😁 I am a Brazilian programming student, I really love programming and I really would like to have a job!
-- ⚡ Fun fact: Well, I actually love chess, astronomy, really love programming and learn things, specially software engineering. ~ Clean Architeture and Design Patterns have a locate in my heart.
-- 🌱 I’m currently learning everything, But specially javascript, I wanna master it. React, Next, Node, Typescript, Electron.
-- 👾 I am actually side leaning other languages for more jobs entrypoints, like java, C# and with my web develop course, I already have good skill level in HTML5, CSS3 and JavaScript.
-- 👯 I’m helping my friends to start in programming too and working in side projects.
+- 🌱 I am currently learning everything :V, But specially javascript, I wanna master it. React, Next, Node, Typescript, Electron.
+- 👾 I am actually side leaning other languages for fun, like java, C# and with my web develop course, I already have good skill level in HTML5, CSS3, and of course JavaScript.
+- 👯 I am helping my friends to start in programming too and working in side projects.
+- 🥅 2022 Goals: Take a job, learn even more things, and make more projects!
+- ⚡ Fun fact: Well, I actually love chess, astronomy and I really love programming 😅.
 
 <a href="https://www.instagram.com/kkphoenixgx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://discord.gg/fPkQ6uH8CR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
@@ -63,21 +63,19 @@
 
 1- I made a [calculator using js](https://kkphoenixgx.github.io/CalculadoraJs/) made all just with css, html and js without ES6, for you take a look into my vanilla programming. This project don't have a responsive page yet
 
-2- In my javascript course I have already made some sites that I have followed the course but personalizate it myself like the users tab page at my [projeto usuários repository](https://kkphoenixgx.github.io/curso-javascript-projeto-usuarios) that you can click and see it running; My [Drpbox Clone](https://github.com/kkphoenixgx/JavascriptCourse/tree/master/Projetos/DropboxClone/app), I will try later to make it realy a site. I will be hosting it with google functions soon, but for now, you can easily clone the site and see it running.
+2- I am currently working in a [snake game](https://github.com/kkphoenixgx/SpeedSnake) that have bosses, walls, enemies, levels, a market that you can buy things with the apples that you collected in game using electron. I made a snake game different then everything you already saw. This project don't have a responsive page yet and is pretty incomplete, but a already have a [snake game browser game](kkphoenixgx.github.io/Snake-Game) that is pretty simple. 
+
+3- I am currently working in a PetShop web site that my focus is show how I deal with web develop in real life, how I think and implement my programming skills.
+
+4-I made some simple codes that can be pretty ussefull to some dayly things, like creating an [index of files](kkphoenixgx.github.io/Snake-Game) and a [create architeture](https://github.com/kkphoenixgx/createArchiteture) that creates to you a architeture of directories and some simple files.. This repository is pretty expansive and if you whould like to implement it, please call me in my discord to build it up...
 
 <!--END_SECTION:activity-->
 
 <br>
 
-<h2 align="center"><b> Comunity projects, to make your life simple </b></h2>
-
-1. I have done a ["create md index"](https://github.com/kkphoenixgx/Create-a-index-of-files-in-md) project, that creates a index of all the files in a directory path.
-2. There is a repository in my github to [create architectures](https://github.com/kkphoenixgx/createArchiteture). Some simple structures of folders that facilitates our life to do not need to configurate the design of folders in your project
-
-<!--END_SECTION: -->
-<br>
-
 <h2 align="center"><b>Courses that I am learning</b></h2>
+
+Note: All my notes are actually in my [study repository](https://github.com/kkphoenixgx/Estudos) which is in portuguese <br>
 
 1- I am learning javascript in the [javascript course](https://github.com/kkphoenixgx/JavascriptCourse) at HCODE  
 2- Learning [web-develop](https://github.com/kkphoenixgx/Web-developer-course) in HCODE  
