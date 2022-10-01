@@ -69,6 +69,8 @@
 
 4-I made some simple codes that can be pretty ussefull to some dayly things, like creating an [index of files](kkphoenixgx.github.io/Snake-Game) and a [create architeture](https://github.com/kkphoenixgx/createArchiteture) that creates to you a architeture of directories and some simple files.. This repository is pretty expansive and if you whould like to implement it, please call me in my discord to build it up...
 
+5- I did a site to my [math homework](https://github.com/kkphoenixgx/MathHomework-search) that have graphics in js that contains data from a research about how many people drink alcohol in the last year of my school.
+
 <!--END_SECTION:activity-->
 
 <br>
