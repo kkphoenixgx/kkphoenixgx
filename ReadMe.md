@@ -2,12 +2,11 @@
 
 ## Who I am?
 
-- 😁 I am a Brazilian programming student, I really love programming and I really would like to have a job!
-- 🌱 I am currently learning everything :V, But specially javascript, I wanna master it. React, Next, Node, Typescript, Electron.
+- 😁 I am a Brazilian programming student, I really love programming and I really would like to apply my knolage, be part of and improve our business
+- 🌱 I am currently learning everything :V, But specially javascript, I wanna master it. React, Next, Node, Typescript, Electron, Angular.
 - 👾 I am actually side leaning other languages for fun, like java, C# and with my web develop course, I already have good skill level in HTML5, CSS3, and of course JavaScript.
 - 👯 I am helping my friends to start in programming too and working in side projects.
-- 🥅 2022 Goals: Take a job, learn even more things, and make more projects!
-- ⚡ Fun fact: Well, I actually love chess, astronomy and I really love programming 😅.
+- ⚡ Fun fact: Well, I actually love chess, astronomy and I love software architecture, my hobbie is learn it. I already read Clean Code, Clean Arquiteture and I am learning design patterns from Design Patterns: Elements of Reusable Object-Oriented Software.
 
 <a href="https://www.instagram.com/kkphoenixgx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://discord.gg/fPkQ6uH8CR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
