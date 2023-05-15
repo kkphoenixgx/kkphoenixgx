@@ -52,8 +52,6 @@
 
 [![kkphoenixgx GitHub stats](https://github-readme-stats.vercel.app/api?username=kkphoenixgx&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-![Snake animation](https://github.com/kkphoenixgx/kkphoenixgx/blob/output/github-contribution-grid-snake.svg)
-
 </div>
 
 <h2 align="center"><b>My biggest achievements</b></h2>
