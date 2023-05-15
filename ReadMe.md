@@ -93,6 +93,6 @@ Please checkout my [instagram](https://www.instagram.com/kkphoenixgx/) and my
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=GLSL,rust,python,Assembly,Objective-C&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=GLSL,rust,python,Assembly,Objective-C,GO,Astro&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
