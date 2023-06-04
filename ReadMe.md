@@ -8,7 +8,6 @@
 - 👯 I am helping my friends to start in programming too and working in side projects.
 - ⚡ Fun fact: Well, I actually love chess, astronomy and I love software architecture, my hobbie is learn it. I already read Clean Code, Clean Arquiteture and I am learning design patterns from Design Patterns: Elements of Reusable Object-Oriented Software.
 
-<a href="https://www.instagram.com/kkphoenixgx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://discord.gg/fPkQ6uH8CR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 <a href = "mailto:kkphoenixvs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/kau%C3%A3-alves-santos-873b85203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
