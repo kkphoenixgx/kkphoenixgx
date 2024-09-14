@@ -1,6 +1,6 @@
 # Wellcome to my GitHub page! please enjoy
 
-## Who I am?
+## Who am I?
 
 - 😁 I am a Brazilian programming student, I really love programming and I really would like to apply my knolage, be part of and improve our business
 - 🌱 I am currently learning everything :V, But specially javascript, I wanna master it. React, Next, Node, Typescript, Electron, Angular, Sass.
