@@ -20,10 +20,10 @@
   <img src="./Icons/typescript.png" title="Typescript" width="20px" height="20px">
   <img src="./Icons/html.png" title="HTML5" width="20px" height="20px">
   <img src="./Icons/css.png" title="CSS3" width="20px" height="20px">
-  <img src="./Icons/scss-icon.png" title="SASS" width="45px" height="20px">
+  <img src="./Icons/scss-icon.png" title="SASS" width="20px" height="20px">
 
-  <img src="./Icons/threejs-icon.png" title="three.js" width="45px" height="20px">
-  <img src="./Icons/angular-icon.png" title="Angular" width="45px" height="20px">
+  <img src="./Icons/threejs-icon.png" title="three.js" width="20px" height="20px">
+  <img src="./Icons/angular-icon.png" title="Angular" width="20px" height="20px">
   
   <img src="./Icons/node.js.png" title="node.js" width="20px" height="20px">
   <img src="./Icons/expressjs.png" title="Express.js" width="45px" height="20px">
@@ -31,7 +31,7 @@
   <img src="./Icons/react.js.png" title="React.js" width="30px" height="20px">
   <img src="./Icons/Next.js.png" title="Next.js" width="20px" height="20px">
 
-  <img src="./Icons/vue-icon.png" title="Vue" width="45px" height="20px">
+  <img src="./Icons/vue-icon.png" title="Vue" width="20px" height="20px">
   
   <img src="./Icons/Bootstrap.png" title="Bootstrap" width="28px" height="20px">
   <img src="./Icons/jquery.png" title="Jquery" width="20px" height="20px">
@@ -39,19 +39,19 @@
   <img src="./Icons/electron.js.png" title="Electron.js" width="20px" height="20px">
 
   <img src="./Icons/java.png" title="Java" width="20px" height="20px">
-  <img src="./Icons/spring-icon.png" title="Spring" width="45px" height="20px">
+  <img src="./Icons/spring-icon.png" title="Spring" width="20px" height="20px">
   
   
-  <img src="./Icons/sql-icon.png" title="SQL" width="45px" height="20px">
-  <img src="./Icons/mysql-icon.png" title="My Sql" width="45px" height="20px">
-  <img src="./Icons/mongodb-icon.png" title="Mongo DB" width="45px" height="20px">
-  <img src="./Icons/aws-icon.png" title="AWS" width="45px" height="20px">
+  <img src="./Icons/sql-icon.png" title="SQL" width="20px" height="20px">
+  <img src="./Icons/mysql-icon.png" title="My Sql" width="20px" height="20px">
+  <img src="./Icons/mongodb-icon.png" title="Mongo DB" width="20px" height="20px">
+  <img src="./Icons/aws-icon.png" title="AWS" width="20px" height="20px">
   
   
-  <img src="./Icons/docker-icon.png" title="Docker" width="45px" height="20px">
-  <img src="./Icons/terraform-icon.png" title="Terraform" width="45px" height="20px">
+  <img src="./Icons/docker-icon.png" title="Docker" width="20px" height="20px">
+  <img src="./Icons/terraform-icon.png" title="Terraform" width="20px" height="20px">
   
-  <img src="./Icons/c-icon.png" title="C" width="45px" height="20px">
+  <img src="./Icons/c-icon.png" title="C" width="20px" height="20px">
     
 </div>
 
