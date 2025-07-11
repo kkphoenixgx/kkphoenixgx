@@ -26,7 +26,7 @@
   <img src="./Icons/angular-icon.png" title="Angular" width="20px" height="20px">
   
   <img src="./Icons/node.js.png" title="node.js" width="20px" height="20px">
-  <img src="./Icons/expressjs.png" title="Express.js" width="20px" height="20px">
+  <img src="./Icons/expressjs.png" title="Express.js" width="40px" height="20px">
 
   <img src="./Icons/react.js.png" title="React.js" width="30px" height="20px">
   <img src="./Icons/Next.js.png" title="Next.js" width="20px" height="20px">
