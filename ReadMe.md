@@ -47,7 +47,7 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=GLSL,rust,python,Assembly,Objective-C,GO,Astro,Scala,C%2B%2B,Makefile&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=GLSL,rust,python,Assembly,Objective-C,GO,Astro,Scala,Shell,C%2B%2B,Makefile,Lua&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
