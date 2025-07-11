@@ -45,6 +45,12 @@
 
 <br>
 
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=GLSL,rust,python,Assembly,Objective-C,GO,Astro,Scala,C++,MakeFile&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
 <h2 align="center"><b>GitHub Stats</b></h2>
 
 <div align="center">
@@ -53,8 +59,3 @@
 
 </div>
 
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=GLSL,rust,python,Assembly,Objective-C,GO,Astro,Shell,Scala&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
