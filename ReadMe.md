@@ -1,54 +1,23 @@
 # Developer and Architect of Virtual Worlds & Logical Systems
 
-I build where logic meets imagination. My work is a constant exploration of software architecture as a craft—creating ludic experiences, complex engines, and intelligent systems that feel alive. Since 2019, I've been loving abstractions and business logic as a WEB developer.
+> *"It is not about the framework, it's about the solution and scalability with architecture."*
 
----
+I build where logic meets imagination. My work is a constant exploration of software architecture as a craft—creating ludic experiences, complex engines, and intelligent systems that feel alive. Since 2019, I've been loving abstractions and business logic as a WEB developer.
 
 ### 🏛️ The Craft of Architecture
 - **Creative Engineering:** Designing systems that aren't just efficient, but elegant and expressive.
 - **Ludic Systems:** Building custom game engines and interactive environments from the ground up.
 - **Cognitive Agents:** Researching Multi-Agent Systems (MAS) and BDI logic to bridge simulation and autonomy at CHON group!
 
----
+### The Intelectual Carpenter Toolbox
 
-### 🛠️ The Architect's Toolbox
-
-#### **Languages & Core**
-<div align="left">
-  <img src="./Icons/typescript.png" title="TypeScript" width="30px" />
-  <img src="./Icons/javascript.png" title="JavaScript" width="30px" />
-  <img src="./Icons/java.png" title="Java" width="30px" />
-  <img src="./Icons/c-icon.png" title="C" width="30px" />
-</div>
-
-#### **Frontend & Immersive Arts**
-<div align="left">
-  <img src="./Icons/angular-icon.png" title="Angular" width="30px" />
-  <img src="./Icons/react.js.png" title="React" width="40px" />
-  <img src="./Icons/threejs-icon.png" title="Three.js" width="30px" />
-  <img src="./Icons/scss-icon.png" title="SCSS" width="30px" />
-  <img src="./Icons/html.png" title="HTML5" width="30px" />
-  <img src="./Icons/css.png" title="CSS3" width="30px" />
-</div>
-
-#### **Backend & Intelligence**
-<div align="left">
-  <img src="./Icons/node.js.png" title="Node.js" width="30px" />
-  <img src="./Icons/expressjs.png" title="Express.js" width="50px" />
-  <img src="./Icons/spring-icon.png" title="Spring" width="30px" />
-  <img src="./Icons/mongodb-icon.png" title="MongoDB" width="30px" />
-  <img src="./Icons/mysql-icon.png" title="MySQL" width="30px" />
-  <img src="./Icons/sql-icon.png" title="SQL" width="30px" />
-</div>
-
-#### **Infrastructure & DevOps**
-<div align="left">
-  <img src="./Icons/aws-icon.png" title="AWS" width="30px" />
-  <img src="./Icons/docker-icon.png" title="Docker" width="30px" />
-  <img src="./Icons/terraform-icon.png" title="Terraform" width="30px" />
-</div>
-
----
+| **Languages & Core** | **Frontend & Immersive Arts** |
+| :--- | :--- |
+| <div align="left"><img src="./Icons/typescript.png" title="TypeScript" width="30px" /> <img src="./Icons/javascript.png" title="JavaScript" width="30px" /> <img src="./Icons/java.png" title="Java" width="30px" /> <img src="./Icons/c-icon.png" title="C" width="30px" /></div> | <div align="left"><img src="./Icons/angular-icon.png" title="Angular" width="30px" /> <img src="./Icons/react.js.png" title="React" width="40px" /> <img src="./Icons/vue-icon.png" title="Vue.js" width="30px" /> <img src="./Icons/Next.js.png" title="Next.js" width="40px" /> <img src="./Icons/threejs-icon.png" title="Three.js" width="30px" />  <br/> <img src="./Icons/scss-icon.png" title="SCSS" width="30px" /> <img src="./Icons/Bootstrap.png" title="Bootstrap" width="35px" /> <img src="./Icons/jquery.png" title="jQuery" width="35px" /> <img src="./Icons/html.png" title="HTML5" width="30px" /> <img src="./Icons/css.png" title="CSS3" width="30px" /></div> <img src="./Icons/electron.js.png" title="Electron" width="30px" /> <img src="./Icons/tauri-icon.png" title="Tauri" width="30px" /> |
+| **Backend & Intelligence** | **Quality Assurance & Testing** |
+| <div align="left"><img src="./Icons/node.js.png" title="Node.js" width="30px" /> <img src="./Icons/expressjs.png" title="Express.js" width="50px" /> <img src="./Icons/spring-icon.png" title="Spring" width="30px" /> <br/> <img src="./Icons/mongodb-icon.png" title="MongoDB" width="30px" /> <img src="./Icons/mysql-icon.png" title="MySQL" width="30px" /> <img src="./Icons/sql-icon.png" title="SQL" width="30px" /></div> | <div align="left"><img src="./Icons/playwright-icon.png" title="Playwright" width="30px" /> <img src="./Icons/jest-js-icon.png" title="Jest" width="30px" /> <img src="./Icons/junit-icon.png" title="JUnit" width="30px" /></div> |
+| **Infrastructure & DevOps** | |
+| <div align="left"><img src="./Icons/aws-icon.png" title="AWS" width="30px" /> <img src="./Icons/docker-icon.png" title="Docker" width="30px" /> <img src="./Icons/terraform-icon.png" title="Terraform" width="30px" /></div> | |
 
 ### 🚀 Featured Projects
 
@@ -61,9 +30,7 @@ High-performance interactive experience merging **Angular 19** with **Three.js**
 #### 🛰️ [The Big Agent](https://github.com/kkphoenixgx)
 Embedded Multi-Agent System inspired by "1984", utilizing **BDI logic (AgentSpeak)** for drone autonomous security operations. Built with Java and integrated with Webots/Three.js for physical simulation.
 
----
-
-### 📊 Stats & Presence
+### Stats & Presence
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kkphoenix/">
@@ -84,6 +51,3 @@ Embedded Multi-Agent System inspired by "1984", utilizing **BDI logic (AgentSpea
   <img src="https://github-readme-stats.vercel.app/api?username=kkphoenixgx&show_icons=true&theme=vision-glow&count_private=true" alt="GitHub Stats" />
 </div>
 
----
-
-*"It is not about the framework, it's about the solution and scalability with architecture."*
